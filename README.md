@@ -6,7 +6,5 @@ Hi, my name is Mihajlo and I am a support agent representative who worked for co
 
 
 <p align="left">
-<a href="mpetranjeskovic122@gmail.com">
-  <img alt="email" "Contact Email"
-  src="https://w7.pngwing.com/pngs/975/579/png-transparent-ipma-email-telephone-message-email-icon-miscellaneous-angle-telephone-call.png"/></a>
+<a href="mailto:mpetranjeskovic122@gmail.com">Send me an email</a>
 </p>
