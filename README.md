@@ -1,6 +1,7 @@
-# 👨‍💻 Mihajlo Petranjeskovic 
+# 👨‍💻 Mihajlo Petranjeskovic  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dex991&label=Profile%20views&color=0e75b6&style=flat" alt="dex991" /> </p>
 
-**`Support Agent Representative / Head of Support`**
+
+**`Support Agent Representative / Head of Support`** <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 Hi, my name is Mihajlo and I am a support agent representative who worked for couple small Casinos and in the Gaming Industry. I have been with the companies for 2 years, and in that time I have helped countless customers resolve their issues and improve their experiences with our products and services. I am a dedicated and compassionate professional who is committed to providing the highest level of customer service. Whether it's answering questions, solving problems, or simply lending an ear to listen, I am always here to help.
 
