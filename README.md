@@ -6,5 +6,7 @@ Hi, my name is Mihajlo and I am a support agent representative who worked for co
 
 
 <p align="left">
-<a href="mailto:mpetranjeskovic122@gmail.com">Send me an email</a>
+  <a href="mailto:mpetranjeskovic122@gmail.com?subject=Business_Inquiry">
+  <img src="your-image.jpg" alt="Send me an email">
+</a>
 </p>
