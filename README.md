@@ -17,3 +17,5 @@ Hi, my name is Mihajlo and I am a support agent representative who worked for co
       <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/174_Intercom_logo_logos-512.png" style="display:inline-block;" width="50" height="50" />
       <img src="https://support.zendesk.com/hc/article_attachments/4408889682714/Screen_Shot_2018-09-13_at_15.36.52.png" style="display:inline-block;" width="50" height="50" />
     </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dex991&show_icons=true&theme=radical)
