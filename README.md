@@ -1,9 +1,10 @@
 # 👨‍💻 Mihajlo Petranjeskovic  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dex991&label=Profile%20views&color=0e75b6&style=flat" alt="dex991" /> </p>
 
-## <a href="https://github.com/DeX991/CV" target="_blank">CV</a>
-
 **`Support Agent Representative / Head of Support`** <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+## <a href="https://github.com/DeX991/CV" target="_blank">CV</a>
+
+**Briefly about me**
 <div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5;">
 	<p style="font-weight: bold; font-size: 24px;">Hello, I'm Mihajlo</p>
 	<p style="margin-bottom: 20px;">I'm a support agent with a passion for providing exceptional customer service. With over 2 years of experience working in the gaming industry and for small casinos, I have helped countless customers resolve issues and improve their overall experiences with our products and services.</p>
